@@ -19,13 +19,13 @@ AgroHelper addresses the critical issue of information accessibility and communi
 - **APIs:** Government APIs for real-time crop prices
 
 ## Screenshots
-![splashscrn](https://github.com/user-attachments/assets/a73d930a-3224-4bf7-8868-a7ca440280d8)
-![Login](https://github.com/user-attachments/assets/eb964687-b1cd-4dd8-8719-6164d3bc580f)
-![onboarding form](https://github.com/user-attachments/assets/428746ad-d6d9-4749-956c-9bc36cb19484)
-![doubt reply](https://github.com/user-attachments/assets/82f8b564-21b9-4a67-9ce2-c00fc0fe1718)
-![noti](https://github.com/user-attachments/assets/32024a12-6474-4139-b5d1-1008d7f3f7da)
-![qnaposter_real](https://github.com/user-attachments/assets/37d5e6d3-592e-4a00-b83f-0dc184d4dfb4)
-![homess](https://github.com/user-attachments/assets/7f0954b1-d9ec-4f3b-98a5-8b99c7c3ecbf)
+<img src="https://github.com/user-attachments/assets/a73d930a-3224-4bf7-8868-a7ca440280d8" width="300" alt="Splash Screen"/>
+<img src="https://github.com/user-attachments/assets/eb964687-b1cd-4dd8-8719-6164d3bc580f" width="300" alt="Login Screen"/>
+<img src="https://github.com/user-attachments/assets/428746ad-d6d9-4749-956c-9bc36cb19484" width="300" alt="Onboarding Form"/>
+<img src="https://github.com/user-attachments/assets/82f8b564-21b9-4a67-9ce2-c00fc0fe1718" width="300" alt="Doubt Reply"/>
+<img src="https://github.com/user-attachments/assets/32024a12-6474-4139-b5d1-1008d7f3f7da" width="300" alt="Notifications"/>
+<img src="https://github.com/user-attachments/assets/37d5e6d3-592e-4a00-b83f-0dc184d4dfb4" width="300" alt="Q&A Poster"/>
+<img src="https://github.com/user-attachments/assets/7f0954b1-d9ec-4f3b-98a5-8b99c7c3ecbf" width="300" alt="Home Screen"/>
 
 ## Getting Started
 
