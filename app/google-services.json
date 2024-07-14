@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985223641453",
+    "project_id": "doubtless-app",
+    "storage_bucket": "doubtless-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985223641453:android:ca5d3e1c733446efb60264",
+        "android_client_info": {
+          "package_name": "com.doubtless.doubtless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985223641453-l2d9uvics1ohgdc0l3m9valdidm9gpbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doubtless.doubtless",
+            "certificate_hash": "2e9080b3ac0f41d1c1626c7dee37563d252b375d"
+          }
+        },
+        {
+          "client_id": "985223641453-rl5u9j6onqptjitophcd7c6f520m1p06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvSYJdLEmw92Z12-DITxNCC_M0ICvU40c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985223641453-rl5u9j6onqptjitophcd7c6f520m1p06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

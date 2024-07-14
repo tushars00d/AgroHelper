@@ -1,0 +1,13 @@
+#Thu May 02 21:56:49 IST 2024
+base.0=/Users/tusharsood/Downloads/AgroHelper  II copy/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/tusharsood/Downloads/AgroHelper  II copy/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/Users/tusharsood/Downloads/AgroHelper  II copy/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/11/classes.dex
+base.3=/Users/tusharsood/Downloads/AgroHelper  II copy/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/6/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=11/classes.dex
+path.3=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

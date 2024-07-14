@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_main.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/activity_splash.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_home_main_screen.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_home_main_screen.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/activity_onboarding.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_search.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/activity_apifetch.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/activity_apifetch.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_create_doubt.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_create_doubt.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/bottom_sheet_delete_account.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/bottom_sheet_delete_account.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/doubt_item.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/doubt_item.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_other_users_profile.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_other_users_profile.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/user_profile_layout.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/user_profile_layout.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/layout_home_search.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/layout_home_search.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/activity_main.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/doubt_layout.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/doubt_layout.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/layout_polls.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/layout_polls.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_home.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/answer_layout.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/answer_layout.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/list_item.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/row_items.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/row_items.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/activity_login.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_view_doubts.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_view_doubts.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_inapp_notif.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_inapp_notif.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_answers.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_answers.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/enter_answer_layout.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/enter_answer_layout.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/item_post_answer_notif.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/item_post_answer_notif.xml"
+    },
+    {
+        "merged": "com.doubtless.doubtless.app-mergeDebugResources-61:/layout/activity_login.xml",
+        "source": "com.doubtless.doubtless.app-main-64:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/layout_retro.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/layout_retro.xml"
+    },
+    {
+        "merged": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-mergeDebugResources-61:/layout/fragment_dashboard.xml",
+        "source": "/Users/tusharsood/.gradle/daemon/7.4/com.doubtless.doubtless.app-main-64:/layout/fragment_dashboard.xml"
+    }
+]

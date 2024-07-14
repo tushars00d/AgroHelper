@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".screens.doubt.HomeMainScreenFragment">
+<!--    Question: "What are some natural methods to control pests in my organic farm?"-->
+<!--    Description: "Seeking eco-friendly pest control solutions to maintain organic certification."-->
+<!--    Answer: "Neem oil and companion planting with marigolds are effective natural pest repellents."-->
+<!--    Question: "How can I improve soil fertility for better crop yields?"-->
+<!--    Description: "Exploring methods to enhance soil health and productivity."-->
+<!--    Answer: "Adding compost, cover cropping, and crop rotation promote soil fertility and structure."-->
+<!--    Question: "What irrigation system is best suited for my vegetable garden?"-->
+<!--    Description: "Looking for efficient watering solutions to optimize crop growth."-->
+<!--    Answer: "Drip irrigation minimizes water waste and delivers moisture directly to plant roots."-->
+<!--    Question: "What are the symptoms of common plant diseases and their treatments?"-->
+<!--    Description: "Identifying signs of plant illnesses and seeking appropriate remedies."-->
+<!--    Answer: "Yellowing leaves may indicate nutrient deficiency, while fungal infections can be treated with organic fungicides."-->
+<!--    Question: "How do I interpret soil test results for nutrient deficiencies?"-->
+<!--    Description: "Understanding soil analysis reports to address nutrient imbalances."-->
+<!--    Answer: "High phosphorus levels may require reducing fertilizer inputs, while low pH can be corrected with lime application."-->
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/purple"
+        android:elevation="12dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crop Prices"
+            android:textColor="@color/white"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="12dp"/>
+
+        <ImageView
+            android:id="@+id/ic_search"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_outline_search_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/purple" />
+
+        <TextView
+            android:id="@+id/tv_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="116dp"
+            android:fontFamily="@font/poppins"
+            android:gravity="start"
+            android:padding="12dp"
+            android:text="HOME FEED"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@id/ic_search"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/purple"
+        app:tabBackground="@color/purple"
+        app:tabMode="scrollable"
+        app:tabSelectedTextColor="@color/white"
+        app:tabTextColor="@color/separation_grey"
+        android:elevation="12dp"
+        app:tabTextAppearance="@style/FilterTagTabLayoutTextAppearance" />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

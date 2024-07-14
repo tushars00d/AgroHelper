@@ -1,0 +1,9 @@
+com.doubtless.doubtless.test.app-annotation-experimental-1.3.0-0 /Users/tusharsood/.gradle/caches/transforms-3/3f5ba76a1a9fce715a071df81bee8c9a/transformed/annotation-experimental-1.3.0/res
+com.doubtless.doubtless.test.app-core-1.5.0-1 /Users/tusharsood/.gradle/caches/transforms-3/e87db78319a886873e5ee816f29959a0/transformed/core-1.5.0/res
+com.doubtless.doubtless.test.app-androidTest-2 /Users/tusharsood/Downloads/AgroHelper  II copy/app/build/generated/res/resValues/androidTest/debug
+com.doubtless.doubtless.test.app-androidTest-3 /Users/tusharsood/Downloads/AgroHelper  II copy/app/build/generated/res/rs/androidTest/debug
+com.doubtless.doubtless.test.app-mergeDebugAndroidTestResources-4 /Users/tusharsood/Downloads/AgroHelper  II copy/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.doubtless.doubtless.test.app-mergeDebugAndroidTestResources-5 /Users/tusharsood/Downloads/AgroHelper  II copy/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.doubtless.doubtless.test.app-merged_res-6 /Users/tusharsood/Downloads/AgroHelper  II copy/app/build/intermediates/merged_res/debugAndroidTest
+com.doubtless.doubtless.test.app-androidTest-7 /Users/tusharsood/Downloads/AgroHelper  II copy/app/src/androidTest/res
+com.doubtless.doubtless.test.app-androidTestDebug-8 /Users/tusharsood/Downloads/AgroHelper  II copy/app/src/androidTestDebug/res
